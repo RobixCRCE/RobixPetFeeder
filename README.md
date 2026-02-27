@@ -1,4 +1,4 @@
-#Smart Pet Feeder – ESP32 (Access Point Mode)
+# Smart Pet Feeder – ESP32 (Access Point Mode)
 
 Overview
 ESP32-based smart pet feeder with:
